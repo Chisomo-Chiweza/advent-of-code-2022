@@ -4,11 +4,7 @@ Welcome to the Advent of Code[^aoc] Kotlin project created by [chisomo-chiweza][
 
 In this repository, chisomo-chiweza is about to provide solutions for the puzzles using [Kotlin][kotlin] language.
 
-If you're stuck with Kotlin-specific questions or anything related to this template, check out the following resources:
-
-- [Kotlin docs][docs]
-- [Kotlin Slack][slack]
-- Template [issue tracker][issues]
+Even cooler solutions provided through the Kotlin Youtube Channel Advent of Code 2022 playlist [here](https://youtube.com/playlist?list=PLlFc5cFwUnmwxQlKf8uWp-la8BVSTH47J)
 
 
 [^aoc]:
